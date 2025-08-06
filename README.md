@@ -1,0 +1,1 @@
+This project is a front-end application of Amazon's e-commerce platform, focusing on designing and developing responsive and user-friendly interfaces. The Amazon Clone UI aims to simulate the core structure and user experience of the original website, providing a realistic shopping interface without backend functionality.
